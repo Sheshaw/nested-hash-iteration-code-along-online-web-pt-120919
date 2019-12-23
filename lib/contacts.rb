@@ -2,7 +2,6 @@ require 'pry'
 
 contacts = {
   "Jon Snow" => {
- # :name => "Jon" this is the same shit
     name: "Jon",
     email: "jon_snow@thewall.we", 
     favorite_ice_cream_flavors: ["chocolate", "vanilla", "mint chip"],
