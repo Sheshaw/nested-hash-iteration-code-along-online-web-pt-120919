@@ -23,7 +23,6 @@ def list_1(hash)
   end
 end 
 
-# list_1(contacts)
 
 def list_2(hash)
   hash.each do |person, data|
