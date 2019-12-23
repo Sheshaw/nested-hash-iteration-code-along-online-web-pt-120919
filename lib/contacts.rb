@@ -50,7 +50,6 @@ end
 remove_strawberry(contacts)
 
 puts contacts ["Jon Snow"] [:email]
-puts "//////"
 puts contacts ["Jon Snow"].keys
 puts contacts ["Jon Snow"].values
 
